@@ -1,4 +1,4 @@
-# Vehicle Counter Original Creator
+# Vehicle Counter Original Creator: https://www.youtube.com/watch?v=25ERpsQcsrY&feature=youtu.be&ab_channel=GustavoGino
 Contador de veículos escrito em Python e OpenCV.
 <br><br>
 Você vai precisar:
