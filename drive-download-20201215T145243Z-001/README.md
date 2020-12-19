@@ -1,4 +1,4 @@
-# Vehicle Counter
+# Vehicle Counter Original Creator
 Contador de veículos escrito em Python e OpenCV.
 <br><br>
 Você vai precisar:
